@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntoKotlin</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_copy_paste">CopyPasteActivity</string>
+    <string name="title_activity_val_var">ValVarActivity</string>
+    <string name="title_activity_using_koin">UsingKoinActivity</string>
+</resources>

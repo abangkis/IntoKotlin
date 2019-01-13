@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="list_top_pad">8dp</dimen>
+    <dimen name="list_bottom_pad">8dp</dimen>
+    <dimen name="card_pad">4dp</dimen>
+</resources>
